@@ -1,0 +1,164 @@
+[
+  {
+    "subset": "FD001",
+    "train_rows": 20631,
+    "test_rows": 13096,
+    "train_units": 100,
+    "test_units": 100,
+    "dropped_sensors": [
+      "sensor_1",
+      "sensor_5",
+      "sensor_10",
+      "sensor_16",
+      "sensor_18",
+      "sensor_19"
+    ],
+    "kept_sensors": [
+      "sensor_2",
+      "sensor_3",
+      "sensor_4",
+      "sensor_6",
+      "sensor_7",
+      "sensor_8",
+      "sensor_9",
+      "sensor_11",
+      "sensor_12",
+      "sensor_13",
+      "sensor_14",
+      "sensor_15",
+      "sensor_17",
+      "sensor_20",
+      "sensor_21"
+    ],
+    "RUL_clip": 125,
+    "train_RUL_min_max": [
+      0,
+      125
+    ],
+    "test_RUL_min_max": [
+      7,
+      125
+    ]
+  },
+  {
+    "subset": "FD002",
+    "train_rows": 53759,
+    "test_rows": 33991,
+    "train_units": 260,
+    "test_units": 259,
+    "dropped_sensors": [],
+    "kept_sensors": [
+      "sensor_1",
+      "sensor_2",
+      "sensor_3",
+      "sensor_4",
+      "sensor_5",
+      "sensor_6",
+      "sensor_7",
+      "sensor_8",
+      "sensor_9",
+      "sensor_10",
+      "sensor_11",
+      "sensor_12",
+      "sensor_13",
+      "sensor_14",
+      "sensor_15",
+      "sensor_16",
+      "sensor_17",
+      "sensor_18",
+      "sensor_19",
+      "sensor_20",
+      "sensor_21"
+    ],
+    "RUL_clip": 125,
+    "train_RUL_min_max": [
+      0,
+      125
+    ],
+    "test_RUL_min_max": [
+      6,
+      125
+    ]
+  },
+  {
+    "subset": "FD003",
+    "train_rows": 24720,
+    "test_rows": 16596,
+    "train_units": 100,
+    "test_units": 100,
+    "dropped_sensors": [
+      "sensor_1",
+      "sensor_5",
+      "sensor_16",
+      "sensor_18",
+      "sensor_19"
+    ],
+    "kept_sensors": [
+      "sensor_2",
+      "sensor_3",
+      "sensor_4",
+      "sensor_6",
+      "sensor_7",
+      "sensor_8",
+      "sensor_9",
+      "sensor_10",
+      "sensor_11",
+      "sensor_12",
+      "sensor_13",
+      "sensor_14",
+      "sensor_15",
+      "sensor_17",
+      "sensor_20",
+      "sensor_21"
+    ],
+    "RUL_clip": 125,
+    "train_RUL_min_max": [
+      0,
+      125
+    ],
+    "test_RUL_min_max": [
+      6,
+      125
+    ]
+  },
+  {
+    "subset": "FD004",
+    "train_rows": 61249,
+    "test_rows": 41214,
+    "train_units": 249,
+    "test_units": 248,
+    "dropped_sensors": [],
+    "kept_sensors": [
+      "sensor_1",
+      "sensor_2",
+      "sensor_3",
+      "sensor_4",
+      "sensor_5",
+      "sensor_6",
+      "sensor_7",
+      "sensor_8",
+      "sensor_9",
+      "sensor_10",
+      "sensor_11",
+      "sensor_12",
+      "sensor_13",
+      "sensor_14",
+      "sensor_15",
+      "sensor_16",
+      "sensor_17",
+      "sensor_18",
+      "sensor_19",
+      "sensor_20",
+      "sensor_21"
+    ],
+    "RUL_clip": 125,
+    "train_RUL_min_max": [
+      0,
+      125
+    ],
+    "test_RUL_min_max": [
+      6,
+      125
+    ]
+  }
+]
